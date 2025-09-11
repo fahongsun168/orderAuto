@@ -1,0 +1,12 @@
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+*.log
+*.spec
+.idea
+dist
+build
+venv
+__pycache__

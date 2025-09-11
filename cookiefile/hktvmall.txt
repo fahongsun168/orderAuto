@@ -1,0 +1,15 @@
+Accept:application/json, text/plain, */*
+Accept-Encoding:gzip, deflate, br
+Accept-Language:en
+Authorization:Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJtbXMiLCJ1c2VySWQiOjE2NzUwOSwidXNlcm5hbWUiOiJ3dzI1OTg2OEBhbGliYWJhLWluYy5jb20iLCJ1c2VyQ29kZSI6Ind3MjU5ODY4QGFsaWJhYmEtaW5jLmNvbSIsInR5cCI6IkJlYXJlciIsImVtYWlsIjoid3cyNTk4NjhAYWxpYmFiYS1pbmMuY29tIiwibWVyY2hhbnRJZCI6NDIyODIsIm1lcmNoYW50TmFtZSI6IlNLRUNIRVJTIEhPTkcgS09ORyBMSU1JVEVEIiwic3NvVXNlcklkIjoiMjQ2ZTYyM2QtNWQ0NC00OWYxLTllZWItNWQ1OWMyMjUwZGUyIiwicm9sZUlkIjo0OTYsInJvbGVDb2RlIjoiTUVSQ0hBTlRfT1BFUkFUT1IiLCJyb2xlTmFtZSI6Ik1lcmNoYW50IE9wZXJhdG9yIiwicm9sZVR5cGUiOiJNIiwiYnVDb2RlcyI6IkhLVFYiLCJwbGF0Zm9ybUNvZGVzIjoiSEtUViIsIm1lcmNoYW50QnUiOiJIS1RWLEVFU0UiLCJzeXN0ZW1fY29kZSI6Im1tcyIsImlhdCI6MTczMDI2OTU1MCwiZXhwIjoxNzMwMjcxMzUwfQ.23x93E90ekPeawXECsRReQzjiGSJxUhpWKJKPm0cqoo
+Content-Length:250
+Content-Type:application/json
+Origin:https
+Referer:https
+Sec-Ch-Ua:"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"
+Sec-Ch-Ua-Mobile:?0
+Sec-Ch-Ua-Platform:"macOS"
+Sec-Fetch-Dest:empty
+Sec-Fetch-Mode:cors
+Sec-Fetch-Site:same-site
+User-Agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
