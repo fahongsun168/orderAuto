@@ -7,7 +7,7 @@ logInfoLevel = logging.DEBUG
 log = logging.getLogger(__name__)
 logging.basicConfig(format='%(asctime)s - %(levelname)s - %(name)s - %(message)s', level=logInfoLevel)
 
-chromedriverPath = '/Users/trimniu/Downloads/chromedriver-mac-x64/chromedriver'
+chromedriverPath = '/opt/homebrew/Caskroom/chromedriver/140.0.7339.80/chromedriver-mac-arm64/chromedriver'
 
 if __name__ == '__main__':
 
